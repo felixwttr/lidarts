@@ -222,4 +222,4 @@ def get_locale():
         ]:
             return lang[:2]
 
-    return 'en'
+    return 'de'
